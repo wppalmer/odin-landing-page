@@ -36,3 +36,7 @@ a {
     height: auto;
     justify-content: end;
 }
+.random-info {
+    background-color: white;
+    border: 1px solid red;
+}
