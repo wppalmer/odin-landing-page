@@ -1,0 +1,11 @@
+* {
+    margin: auto;
+}
+.navy-back {
+    color: #F9FAF8;
+    background-color: #1F2937;
+}
+.yellow-building {
+    width: 50%;
+    height: auto;
+}
