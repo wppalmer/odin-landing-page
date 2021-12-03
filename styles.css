@@ -1,9 +1,22 @@
 * {
     margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .navy-back {
     color: #F9FAF8;
     background-color: #1F2937;
+}
+.header-logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+}
+.hero-sec {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 .yellow-building {
     width: 50%;
