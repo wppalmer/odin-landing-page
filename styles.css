@@ -1,18 +1,31 @@
 * {
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+}
+a {
+    color: #E5E7EB;
+    text-decoration: none;
 }
 .navy-back {
     color: #F9FAF8;
     background-color: #1F2937;
 }
+.container{
+    display: flex;
+}
 .header-logo {
     font-size: 24px;
     font-weight: bold;
 }
+.link-div {
+    flex-direction: row;
+}
+
 .hero-main {
     font-size: 48px;
     font-weight: bolder;
+    justify-content: center;
 }
 .hero-sec {
     font-size: 18px;
@@ -21,4 +34,5 @@
 .yellow-building {
     width: 50%;
     height: auto;
+    justify-content: end;
 }
