@@ -1,64 +1,74 @@
 * {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-   /* border: 1px solid white; */
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  /* border: 1px solid white; */
 }
-a {
-    color: #E5E7EB;
-    text-decoration: none;
-}
-button {
-    padding: 3px 13px;
-    color: #E5E7EB;
-    background-color: #3882F6;
-    border-radius: 8px;
-    cursor: pointer;
-}
-button:hover {
-    box-shadow: 1px 1px 5px black;
-}
-.navy-back {
-    color: #F9FAF8;
-    background-color: #1F2937;
-}
-.site-header-wrapper{
-    padding-top: 1.1%;
-    display: flex;
-    align-content: center;
-    flex-wrap: wrap;
-}
-.header-logo {
-    font-size: 24px;
-    font-weight: bold;
-    margin-right: auto;
-    padding-left: 5%;
-    
-}
-.header-links {
-    font-size: 15px;
-    padding-right: 5%;
-}
-.top-container{
-    padding: 5%;
-    display: flex;
-    justify-content: center;
 
+a {
+  color: #e5e7eb;
+  text-decoration: none;
 }
+
+button {
+  padding: 3px 13px;
+  color: #e5e7eb;
+  background-color: #3882f6;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  box-shadow: 1px 1px 5px black;
+}
+
+.navy-back {
+  color: #f9faf8;
+  background-color: #1f2937;
+}
+
+.site-header-wrapper {
+  padding-top: 1.1%;
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.header-logo {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: auto;
+  padding-left: 5%;
+}
+
+.header-links {
+  font-size: 15px;
+  padding-right: 5%;
+}
+
+.top-container {
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+}
+
 .hero-main {
-    font-size: 48px;
-    font-weight: bolder;
-    justify-content: center;
+  font-size: 48px;
+  font-weight: bolder;
+  justify-content: center;
 }
+
 .hero-sec {
-    font-size: 18px;
-    color: #E5E7EB;
+  font-size: 18px;
+  color: #e5e7eb;
 }
+
 .yellow-building {
-    width: 50%;
-    height: auto;
-    justify-content: end;
+  width: 50%;
+  height: auto;
+  justify-content: end;
 }
+
 .random-info {
-    background-color: white;
-    border: 1px solid red;
+  background-color: white;
+  border: 1px solid red;
 }
