@@ -1,7 +1,7 @@
 * {
-    margin: auto;
+    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    border: 1px solid white;
+   /* border: 1px solid white; */
 }
 a {
     color: #E5E7EB;
@@ -17,11 +17,11 @@ a {
 .header-logo {
     font-size: 24px;
     font-weight: bold;
+    
 }
-.link-div {
-    flex-direction: row;
+.header-links {
+    align-items: flex-end;
 }
-
 .hero-main {
     font-size: 48px;
     font-weight: bolder;
