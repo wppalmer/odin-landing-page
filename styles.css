@@ -15,7 +15,7 @@ button {
     color: #F9FAF8;
     background-color: #1F2937;
 }
-.site-header{
+.site-header-wrapper{
     padding: 1% 5%;
     display: flex;
     justify-content: space-between;
