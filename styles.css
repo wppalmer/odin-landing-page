@@ -10,9 +10,12 @@ a {
 button {
     padding: 3px 13px;
     color: #E5E7EB;
-    border: none;
     background-color: #3882F6;
     border-radius: 8px;
+    cursor: pointer;
+}
+button:hover {
+    box-shadow: 1px 1px 5px black;
 }
 .navy-back {
     color: #F9FAF8;
