@@ -16,19 +16,19 @@ button {
     background-color: #1F2937;
 }
 .site-header{
+    padding: 1% 5%;
     display: flex;
     justify-content: space-between;
     align-content: center;
+    flex-wrap: wrap;
 }
 .header-logo {
     font-size: 24px;
     font-weight: bold;
-    margin-left: 5%;
     
 }
 .header-links {
     font-size: 15px;
-    margin-right: 5%;
 }
 .top-container{
     padding: 5%;
