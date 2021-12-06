@@ -8,8 +8,11 @@ a {
     text-decoration: none;
 }
 button {
+    padding: 3px 13px;
     color: #E5E7EB;
+    border: none;
     background-color: #3882F6;
+    border-radius: 8px;
 }
 .navy-back {
     color: #F9FAF8;
