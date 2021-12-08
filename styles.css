@@ -8,6 +8,9 @@ a {
   color: #e5e7eb;
   text-decoration: none;
 }
+a:hover {
+  color: #cacbce;
+}
 
 button {
   padding: 3px 13px;
@@ -19,6 +22,7 @@ button {
 
 button:hover {
   box-shadow: 1px 1px 5px black;
+  background-color: #2375f8;
 }
 
 .navy-back {
@@ -54,7 +58,6 @@ button:hover {
 .hero-main {
   font-size: 48px;
   font-weight: bolder;
-  justify-content: center;
 }
 
 .hero-sec {
@@ -65,10 +68,36 @@ button:hover {
 .yellow-building {
   width: 50%;
   height: auto;
-  justify-content: end;
+  max-width: 650px;
 }
 
 .random-info {
   background-color: white;
   border: 1px solid red;
+  padding-top: 40px;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    display: flex;
+    justify-content: space-around;
+}
+.info-cubes {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 45px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 1px solid red;
+}
+.box{
+    border: 3px solid green;
+}
+.box-img {
+    border: 5px solid #3882f6;
+    border-radius: 8px;
+    height: 150px;
+    width: 150px;
 }
