@@ -78,26 +78,26 @@ button:hover {
 }
 
 .info-header {
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1f2937;
-    display: flex;
-    justify-content: space-around;
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+  display: flex;
+  justify-content: space-around;
 }
 .info-cubes {
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 45px;
-    margin-left: 15%;
-    margin-right: 15%;
-    border: 1px solid red;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 45px;
+  margin-left: 15%;
+  margin-right: 15%;
+  border: 1px solid red;
 }
-.box{
-    border: 3px solid green;
+.box {
+  border: 3px solid green;
 }
 .box-img {
-    border: 5px solid #3882f6;
-    border-radius: 8px;
-    height: 150px;
-    width: 150px;
+  border: 5px solid #3882f6;
+  border-radius: 8px;
+  height: 150px;
+  width: 150px;
 }
