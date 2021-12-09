@@ -75,7 +75,7 @@ button:hover {
   background-color: white;
   border: 1px solid red;
   padding-top: 40px;
-  padding-bottom: 100px;
+  padding-bottom: 175px;
 }
 
 .info-header {
@@ -87,10 +87,9 @@ button:hover {
 }
 .info-cubes {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 50px;
   margin-top: 45px;
-  margin-left: 15%;
-  margin-right: 15%;
   border: 1px solid red;
 }
 .box {
@@ -101,4 +100,16 @@ button:hover {
   border-radius: 8px;
   height: 150px;
   width: 150px;
+}
+.quote-section{
+    background-color: #e5e7eb;
+    padding-bottom: 200px;
+    display: flex;
+    justify-content: center;
+}
+.quote {
+    margin: 40px 20%;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
 }
