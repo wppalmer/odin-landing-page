@@ -105,7 +105,9 @@ button:hover {
     background-color: #e5e7eb;
     padding-bottom: 200px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-content: flex-start;
 }
 .quote {
     margin: 40px 20%;
