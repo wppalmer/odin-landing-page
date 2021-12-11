@@ -82,7 +82,6 @@ footer {
 
 .random-info {
   background-color: white;
- /* border: 1px solid red; */
   padding-top: 40px;
   padding-bottom: 175px;
 }
@@ -101,9 +100,7 @@ footer {
   margin-top: 45px;
  /* border: 1px solid red;*/
 }
-.box {
-  /* border: 3px solid green; */
-}
+
 .box-img {
   border: 5px solid #3882f6;
   border-radius: 8px;
